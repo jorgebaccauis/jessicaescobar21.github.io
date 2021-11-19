@@ -28,7 +28,7 @@ publisher={Optical Society of America}
 ## Contact
 If you have any questions, please contact
 
-* Henry Arguello, 
+* Henry Arguello, henarfu@uis.edu.co
 * Samuel Pinilla, 
 * Yifan (Evan) Peng, evanpeng@stanford.edu
 * Hayato Ikoma, 
