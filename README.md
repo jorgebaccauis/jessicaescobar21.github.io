@@ -29,10 +29,8 @@ conda install jupyter
 or using pip install and the required file.
 
 # Data
-This work uses the following three datasets. Please download the datasets and store them it correctly in the corresponding dataset folder (Train/Test).
-- *MNIST dataset*: Provided in the `dataset/MNIST` folder.
+This work uses the following dataset. Please download the datasets and store them it correctly in the corresponding dataset folder (Train/Test).
 - [*ARAD hyperspectral dataset:*](https://competitions.codalab.org/competitions/22225) It contains 450 hyperspectral training images and 10 validation images. The dataset  is available on the [challenge track websites](https://competitions.codalab.org/competitions/22225). Note that registration is required to access data.
-- [*NYU Depth Dataset:*](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) It contains 1449 RGB images. We use a depth map of 15 discretization levels and its semantic labels for 13 classes. A Matlab function to convert to 15 discretization levels is provided in the `dataset/NYU` folder. 
 
 ## Structure of directories
 
@@ -65,5 +63,5 @@ If you have any questions, please contact
 * Samuel Pinilla, 
 * Yifan (Evan) Peng, evanpeng@stanford.edu
 * Hayato Ikoma, 
-* Jorge Bacca, 
+* Jorge Bacca, jorge.bacca1@correo.uis.edu.co
 * Gordon Wetzstein, gordon.wetzstein@stanford.edu 
